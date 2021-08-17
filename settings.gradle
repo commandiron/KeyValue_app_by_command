@@ -1,0 +1,2 @@
+rootProject.name='KeyValue_app_by_command'
+include ':app'
